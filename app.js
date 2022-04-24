@@ -1,3 +1,3 @@
 function rebel(first) {
-  first = 'Cloud'
+    first = 'Cloud'
 }
